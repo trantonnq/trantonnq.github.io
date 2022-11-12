@@ -1,3 +1,4 @@
+# Team projects for my master degree classes 
 ## Sentiment Analysis for Amazon Product Reviews (Deep Learning)
 • Classify customers’ attitudes (positive, neutral, or negative) toward a product based on their reviews with Natural Language Processing technique using PyTorch and Huggingface transformer
 ## Classify Sleep Stages with Apple Watch Data (Big Data for Health)
