@@ -9,7 +9,7 @@
 - Preprocessed sampled health data (heart rate, motion, circadian, clock) with interpolation and Gaussian filter techniques to create useful features
 - Applied different supervised learning algorithms such as Random Forest, Logistic Regression, K-Nearest Neighbors, Neural Net and AdaBoost and compared their performanced through metrics such as accurarcy and ROC curves. 
 
-## Data Analytics and Visualization - Setlist Songs Recommendation and Visualization 
+## [Data Analytics and Visualization - Setlist Songs Recommendation and Visualization](project_report/Team_54_Final_Report(Song_setlists).pdf)
 - This project is to analyze setlists of influential artists among different gernes in order to build visualization and recommendation tool that help artist select songs for their own setlist. 
 - My role was to cleaned and transformed music data into useful features for visualization and clustering model.
   - Cleaned and joined data pulled from different sources: song names of each setlist are pulled from Setlist.FM, each song's low-level audio features are pulled from Spotify
